@@ -1,6 +1,5 @@
 # Instalação
 
-teste de aula
 
 O Docker deixou de ser apenas um software para virar um conjunto deles: um ecossistema.
 
